@@ -30,7 +30,7 @@ $\bullet$ A los monitoristas más nuevos se les asignarán operaciones mas peque
 
 $\bullet$ En caso de existir faltantes en los monitoristas, se construirá una redistribución de las operaciones. Es decir, uno o más monitoristas se les asignará mas operaciones.
 
-$\bullet$ Los monitoristas (y los jefes de turno) tendrán dos turnos en el día, dos turnos en la noche y un descanso de 2 días a la "semana" (ciclo semanal)
+$\bullet$ Los monitoristas (y los jefes de turno) tendrán dos turnos en el día, dos turnos en la noche y un descanso de 2 días a la "semana" (ciclo semanal).
 
 
 
