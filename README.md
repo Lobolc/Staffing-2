@@ -24,7 +24,7 @@ $\bullet$ La distribución de monitoristas está dada de la siguiente manera: 18
 
 $\bullet$ A cada monitorista se le asignará de manera aleatoria una operación, dicha operación no deberá ser asignada al mismo monitorista de manera consecutiva.
 
-$\bullet$ Los monitoristas tendrán dos turnos en el día, dos turnos en la noche y un descanso de 2 días a la "semana" (ciclo semanal)
+$\bullet$ Los monitoristas (y los jefes de turno) tendrán dos turnos en el día, dos turnos en la noche y un descanso de 2 días a la "semana" (ciclo semanal)
 
 
 
