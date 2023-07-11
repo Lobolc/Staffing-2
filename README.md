@@ -22,7 +22,13 @@ $\bullet$ El horario considerado como de noche es el correspondiente a 19:00 - 0
 
 $\bullet$ La distribución de monitoristas está dada de la siguiente manera: 18 monitoristas y un jefe de turno en el día, y 16 monitoristas y un jefe de turno en la noche.
 
+$\bullet$ En caso de que un jefe de turno llegase a faltar, éste será sustituído por un supervisor.
+
 $\bullet$ A cada monitorista se le asignará de manera aleatoria una operación, dicha operación no deberá ser asignada al mismo monitorista de manera consecutiva.
+
+$\bullet$ A los monitoristas más nuevos se les asignarán operaciones mas pequeñas.
+
+$\bullet$ En caso de existir faltantes en los monitoristas, se construirá una redistribución de las operaciones. Es decir, uno o más monitoristas se les asignará mas operaciones.
 
 $\bullet$ Los monitoristas (y los jefes de turno) tendrán dos turnos en el día, dos turnos en la noche y un descanso de 2 días a la "semana" (ciclo semanal)
 
