@@ -4,7 +4,7 @@ Este es un planificador de turnos, que toma los datos de unos archivos de Excel 
 
 Descripción del problema
 
-Supongamos que tenemos un centro de monitoreo que debe funcionar las 24 horas del día, y que tenemos una cantidad mínima de trabajadores necesarios, en nuestro caso son 52 monitoristas y 4 jefes de turno, para hacerlo funcionar en dos turnos, turno de día y turno de noche. Tenemos que crear un programa de turnos que esté sujeto a ciertas restricciones.
+Supongamos que tenemos un centro de monitoreo que debe funcionar las 24 horas del día, y que tenemos una cantidad mínima de trabajadores necesarios, en nuestro caso son 48 monitoristas, 4 jefes de turnoy 1 persona de altas, para hacerlo funcionar en dos turnos, turno de día y turno de noche. Tenemos que crear un programa de turnos que esté sujeto a ciertas restricciones.
 
 En este caso, las restricciones añadidas son:
 
